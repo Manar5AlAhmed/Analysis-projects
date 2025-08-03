@@ -1,0 +1,11 @@
+date,location,parameter,value,unit
+2023-07-01 00:00,Al Malaz,pm25,45,µg/m³
+2023-07-01 01:00,Al Malaz,pm25,50,µg/m³
+2023-07-01 02:00,Al Malaz,pm10,80,µg/m³
+2023-07-01 03:00,Al Malaz,no2,30,ppb
+2023-07-01 04:00,Al Malaz,pm25,40,µg/m³
+2023-07-02 00:00,Al Malaz,pm25,48,µg/m³
+2023-07-02 01:00,Al Malaz,pm10,75,µg/m³
+2023-07-02 02:00,Al Malaz,no2,28,ppb
+2023-07-02 03:00,Al Malaz,pm25,43,µg/m³
+2023-07-02 04:00,Al Malaz,pm25,42,µg/m³
